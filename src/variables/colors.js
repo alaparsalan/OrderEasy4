@@ -1,0 +1,12 @@
+export const c_white = '#ffffff';
+export const c_black = '#000000';
+export const c_primary_black = '#35424A';
+export const c_grey = '#989EB1';
+export const c_second_grey = '#F4F6F8';
+export const c_light_grey = '#D1D6D8';
+export const c_primary_red = '#E61610';
+export const c_ligth_red = '#FEF1F6';
+export const c_dark_red = '#660066'
+export const c_primary_green = '#8CCE46';
+export const c_light_green = '#B4FCB9';
+export const c_light_blue = '#1DA1F2';
